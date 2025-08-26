@@ -1,7 +1,7 @@
 # My-first-repo
 Just testing github
 # ─────────────────────────────────────────────────────────────────────────────
-# Project: simple-cli
+# Project: simple-cl
 # A minimal Python CLI project with unit tests and GitHub Actions CI.
 # ─────────────────────────────────────────────────────────────────────────────
 
